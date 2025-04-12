@@ -5,5 +5,5 @@
 -->
 This is Yasser, and I am a PhD student in mechanical engineering at the University of Rochester.
 - 🌱 I’m currently learning machine learning for physics-informed neural networks (PINNs).
-- 📫 How to reach me: linkedin.com/in/mohammad-y-abdelshafy/
+- 📫 How to reach me: yasser.abdelshafy@rochester.edu
 - 😄 Pronouns: he/him
